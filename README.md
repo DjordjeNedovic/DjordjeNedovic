@@ -3,7 +3,7 @@
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/41/d8/16/41d8161d03c08843008d2e7c2c3de68f.gif" width="500"/>
 
 
-#### I'm a Software Developer based in Novi Sad, Serbia.
+#### I'm Đorđe Nedović, Software Developer based in Novi Sad, Serbia.
 
 - I'm currently working full-time with awesome peeps at **EXLRT**
 - I like coding challenges (check my [Advent-Of-Code repo](https://github.com/DjolenceTipic/Advent-of-Code))
@@ -31,7 +31,9 @@
 
 <hr>
 
-<h3> 🤝🏻 Connect with Me </h3>
+## - 📫 How to reach me
+
+You can e-mail me directly, get in touch through the account(s) below!
   
 <p align="center">
   <br/>
