@@ -24,10 +24,12 @@
   
 ![Djordje's Github Status](https://github-readme-stats.vercel.app/api?username=DjolenceTipic&show_icons=true&title_color=3793c4&icon_color=ffbb00&text_color=ffffff&bg_color=000000)
 
-</div>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DjolenceTipic&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/DjolenceTipic/github-readme-stats)
 
+
+</div>
 <hr>
 
 <h3> 🤝🏻 Connect with Me </h3>
