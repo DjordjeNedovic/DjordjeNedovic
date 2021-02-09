@@ -37,7 +37,7 @@ You can e-mail me directly, get in touch through the account(s) below!
   
 <p align="center">
   <br/>
-  <a href="https://www.linkedin.com/in/DjolenceTipic/">
+  <a href="https://www.linkedin.com/in/djordjenedovic/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
   </a>
   
