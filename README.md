@@ -15,9 +15,6 @@
 - 🛢  &nbsp;  MySQL | MSSQL
 - 🔧 &nbsp; Visual Studio | Eclipse | Git | SVN
 
-<br>
-<br>
-<br>
 <hr>
 
 <div align = "Center">
