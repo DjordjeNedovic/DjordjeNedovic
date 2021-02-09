@@ -10,7 +10,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; C# | Java | Python  
+- 💻 &nbsp; C# | Java | Python | JavaScript
 - 🌐 &nbsp; Android | HTML | CSS | Bootstrap 
 - 🛢  &nbsp;  MySQL | MSSQL
 - 🔧 &nbsp; Visual Studio | Eclipse | Git | SVN
