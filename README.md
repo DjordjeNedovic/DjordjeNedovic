@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/41/d8/16/41d8161d03c08843008d2e7c2c3de68f.gif" width="500"/>
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/41/d8/16/41d8161d03c08843008d2e7c2c3de68f.gif" width="350"/>
 
 
 #### I'm Đorđe Nedović, Software Developer based in Novi Sad, Serbia.
@@ -24,10 +24,7 @@
   
 ![Djordje's Github Status](https://github-readme-stats.vercel.app/api?username=DjolenceTipic&show_icons=true&title_color=3793c4&icon_color=ffbb00&text_color=ffffff&bg_color=000000)
 
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DjolenceTipic&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/DjolenceTipic/github-readme-stats)
-
 
 <hr>
 
@@ -36,7 +33,6 @@
 You can e-mail me directly, get in touch through the account(s) below!
   
 <p align="center">
-  <br/>
   <a href="https://www.linkedin.com/in/djordjenedovic/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
   </a>
