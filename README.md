@@ -6,7 +6,7 @@
 #### I'm Đorđe Nedović, Software Developer based in Novi Sad, Serbia.
 
 - I'm currently working full-time with awesome peeps at **EXLRT**
-- I like coding challenges (check my [Advent-Of-Code repo](https://github.com/DjolenceTipic/Advent-of-Code))
+- I like coding challenges (check my [Advent-Of-Code repo](https://github.com/DjordjeNedovic/Advent-of-Code))
 
 <h3>🛠 Tech Stack</h3>
 
@@ -19,9 +19,9 @@
 
 <div align = "Center">
   
-![Djordje's Github Status](https://github-readme-stats.vercel.app/api?username=DjolenceTipic&show_icons=true&title_color=3793c4&icon_color=ffbb00&text_color=ffffff&bg_color=000000)
+![Djordje's Github Status](https://github-readme-stats.vercel.app/api?username=DjordjeNedovic&show_icons=true&title_color=3793c4&icon_color=ffbb00&text_color=ffffff&bg_color=000000)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DjolenceTipic&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/DjolenceTipic/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DjordjeNedovic&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/DjordjeNedovic/github-readme-stats)
 
 <hr>
 
