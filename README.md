@@ -3,9 +3,9 @@
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/41/d8/16/41d8161d03c08843008d2e7c2c3de68f.gif" width="350"/>
 
 
-#### I'm Đorđe Nedović, Software Developer based in Novi Sad, Serbia.
+#### I'm Đorđe Nedović, Software Engineer based in Novi Sad, Serbia.
 
-- I'm currently working full-time with awesome peeps at **EXLRT**
+- I'm currently working full-time with awesome peeps at **Endava**
 - I like coding challenges (check my [Advent-Of-Code repo](https://github.com/DjordjeNedovic/Advent-of-Code))
 
 <h3>🛠 Tech Stack</h3>
