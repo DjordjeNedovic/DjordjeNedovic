@@ -1,47 +1,78 @@
-### Hi there 👋
+# Djordje Nedovic
+**Software Engineer | Azure Certified Developer | Enterprise Project Specialist**  
 
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/41/d8/16/41d8161d03c08843008d2e7c2c3de68f.gif" width="350"/>
+---
 
+## About Me  
+Hi 👋, I’m Djordje, a software engineer with over seven years of experience designing, building, and optimizing scalable, secure solutions across diverse industries like intralogistics, retail, and fintech. My expertise spans .NET Core, Vue.js, Azure, and enterprise-grade system architecture. I’m passionate about solving complex problems, mentoring teams, and driving innovation through technology.  
 
-#### I'm Đorđe Nedović, a Software Engineer based in Novi Sad, Serbia.
+---
 
-- I'm currently working full-time with awesome peeps at **Endava**
-- I like coding challenges (check my [Advent-Of-Code repo](https://github.com/DjordjeNedovic/Advent-of-Code))
-- Check my [personal website/Mini Blog](https://github.com/DjordjeNedovic/personal-website-v1)
+## Highlighted Skills  
+- **Languages & Frameworks:** C#, .NET Core, SQL, JavaScript, HTML, CSS, Vue.js  
+- **Cloud Technologies:** Azure DevOps, CI/CD Pipelines, Cloud Architecture  
+- **Tools & Practices:** xUnit, Moq, Entity Framework, PowerShell, Git  
+- **Domains:** Fintech, Retail, Intralogistics  
 
-<h3>🛠 Tech Stack</h3>
+---
 
-- 💻 &nbsp; C# | Java | Python | JavaScript
-- 🌐 &nbsp; Android | HTML | CSS | Bootstrap 
-- 🛢  &nbsp;  MySQL | MSSQL
-- 🔧 &nbsp; Visual Studio | Eclipse | Git | SVN
+## GitHub Stats  
+<div style="display: flex; flex-direction: row;">
+  <img src="https://github-readme-stats.vercel.app/api?username=DjordjeNedovic&show_icons=true&title_color=3793c4&icon_color=ffbb00&text_color=ffffff&bg_color=000000" alt="Djordje's GitHub Status" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DjordjeNedovic&text_color=daf7dc&bg_color=151515" alt="Top Languages" width="48%" />
+</div>
 
-<hr>
+## Experience Highlights  
 
-<div align = "Center">
-  
-![Djordje's Github Status](https://github-readme-stats.vercel.app/api?username=DjordjeNedovic&show_icons=true&title_color=3793c4&icon_color=ffbb00&text_color=ffffff&bg_color=000000)
+### **Endava (Multiple Projects)**  
+#### Warehouse Management System (Mobile & Web)  
+- Developed a mobile barcode scanning solution for warehouse inventory.  
+- Built a web app for real-time status tracking and intralogistics management.  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DjordjeNedovic&text_color=daf7dc&bg_color=151515)](https://github.com/DjordjeNedovic/github-readme-stats)
+#### Dock Station Management (Desktop)  
+- Delivered a WPF-based desktop application to streamline dock operations.  
 
-<hr>
+#### Fintech Process Optimization  
+- Enhanced scalability and cloud integration using .NET Core, Vue.js, and Azure DevOps.  
+- Acted as the internal security champion, ensuring robust practices across the team.  
 
-## - 📫 How to reach me
+### **Internship Projects**  
+- **Vacation Management App:**  
+  Streamlined employee workflows with C# .NET, Entity Framework, and MS SQL Server.  
+- **Timesheet Application:**  
+  Simplified time tracking using ADO.NET and MVC architecture.  
 
-You can e-mail me directly, or get in touch through the account(s) below!
-  
-<p align="center">
-  <a href="https://www.linkedin.com/in/djordjenedovic/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
-  </a>
-  
-  <a href="https://twitter.com/djordje-nedovic">
-    <img src="https://img.shields.io/badge/twitter-%230077D4.svg?&style=flat-square&logo=twitter&logoColor=white">
-  </a>
-  
-  <a href="mailto:nedovic.djordje@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  width="60" />
-  </a>
-  
-  ![](https://hit.yhype.me/github/profile?user_id=25750071)
-</p>
+---
+
+## Key Achievements  
+- Saved 0.5 FTE by identifying and resolving a critical service bus bug in enterprise systems.  
+- Created and optimized CI/CD pipelines, improving deployment efficiency.  
+- Recognized as a team mentor and security champion, fostering best practices.  
+
+---
+
+## Portfolio Projects  
+- **Mini Blog/Portfolio Website**  
+  - Built with Node.js and Tailwind CSS to showcase skills and personal projects.  
+  - [GitHub Repository Link](https://github.com/DjordjeNedovic/personal-website-v1)  
+
+---
+
+## Certifications  
+- **Azure Certified Developer**  
+- Additional certifications (if applicable)  
+
+---
+
+## What I’m Looking For  
+I’m seeking opportunities to work on impactful, innovative projects that leverage my enterprise experience and allow me to grow professionally while making a meaningful contribution to the team.  
+
+---
+
+## Contact Me  
+- **GitHub:** [GitHub Profile Link](https://github.com/DjordjeNedovic/)  
+- **LinkedIn:** [LinkedIn Profile Link](https://www.linkedin.com/in/djordjenedovic/)  
+- **Portfolio:** [Blog/portfolio site]([#](https://djordjenedovic.netlify.app/))  
+- **Email:** [nedovic.djordje@gmail.com](mailto:nedovic.djordje@gmail.com)  
+
+![](https://hit.yhype.me/github/profile?user_id=25750071)
