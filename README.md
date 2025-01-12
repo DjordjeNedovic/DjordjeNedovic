@@ -36,12 +36,6 @@ Hi 👋, I’m Djordje, a software engineer with over seven years of experience 
 - Enhanced scalability and cloud integration using .NET Core, Vue.js, and Azure DevOps.  
 - Acted as the internal security champion, ensuring robust practices across the team.  
 
-### **Internship Projects**  
-- **Vacation Management App:**  
-  Streamlined employee workflows with C# .NET, Entity Framework, and MS SQL Server.  
-- **Timesheet Application:**  
-  Simplified time tracking using ADO.NET and MVC architecture.  
-
 ---
 
 ## Key Achievements  
