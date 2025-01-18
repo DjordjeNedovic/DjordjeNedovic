@@ -53,9 +53,10 @@ Hi 👋, I’m Djordje, a software engineer with over seven years of experience 
 ---
 
 ## Certifications  
-- **Azure Certified Developer**  
-- Additional certifications (if applicable)  
-
+- **AZ-900: Microsoft Certified: Azure Fundamentals**
+- **AZ-204: Microsoft Certified: Azure Developer Associate**
+- **AZ-500: Microsoft Certified: Azure Security Engineer Associate**
+  
 ---
 
 ## What I’m Looking For  
