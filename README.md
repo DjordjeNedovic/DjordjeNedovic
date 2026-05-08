@@ -44,7 +44,7 @@ I write occasionally about things I run into at work.
 ---
 
 [LinkedIn](https://www.linkedin.com/in/djordjenedovic/) · 
-[Blog](https://djordjenedovic.netlify.app) · 
+[Blog](https://djordjenedovic.tech) · 
 [Email](mailto:nedovic.djordje@gmail.com)
 
 ![](https://hit.yhype.me/github/profile?user_id=25750071)
