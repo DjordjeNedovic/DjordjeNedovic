@@ -39,7 +39,7 @@ suffer through the same thing.
 ## Writing
 
 I write occasionally about things I run into at work.  
-[djordjenedovic.netlify.app](https://djordjenedovic.netlify.app)
+[djordjenedovic.tech](https://djordjenedovic.tech)
 
 ---
 
